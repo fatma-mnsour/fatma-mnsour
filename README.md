@@ -11,8 +11,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Tester;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
+- 🏢 I'm a Senior Computer science student at Ain Shams University
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🌟 Committed to becoming a skilled professional tester
+- 📚 Lifelong learner in the ever-evolving landscape of computer science and technology 🌐
 
 
 
